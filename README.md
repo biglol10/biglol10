@@ -29,7 +29,7 @@
 
 - [<img align="left" alt="source" width="20px" src="https://www.svgrepo.com/show/157475/website.svg" style="padding-right:10px;"/>](https://blog.naver.com/nba2005kings) OCR Program using Tensorflow CNN ⚡
 
-- ❌ Factory Location display & Troublesome issue history management website
+- <img align="left" alt="factorymap" width="20px" src="https://image.shutterstock.com/image-illustration/factory-plant-isometric-3d-illustration-600w-1181914285.jpg" style="padding-right:10px"/> Factory Location display & Troublesome issue history management website
 
 - [<img align="left" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/biglol10/CopyAndDistributeProg) File Copy and deploy program for MES project
 
