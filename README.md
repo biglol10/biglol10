@@ -56,6 +56,11 @@
 5. 🎉 Keep on studying and be an excellent front-end engineer capable of back-end with node/java
 <!--END_SECTION:activity-->
 
+<br/>
+
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biglol10&show_icons=true&theme=radical)
+
 <br/><br/><br/><br/>
 
 [notion]: https://www.notion.so/f2fe3dea61f64f21944002eb5950b4cd
