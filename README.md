@@ -38,6 +38,7 @@
 - <img align="left" alt="monitoring" width="20px" src="https://icon-library.com/images/monitoring-icon/monitoring-icon-19.jpg" style="padding-right:10px;"> Established MES Monitoring for maintenance purpose to capture errors in ahead of customers and solve them ASAP
 
 - [<img align="left" alt="loado" width="20px" src="https://loado-app.herokuapp.com/images/loa_icons/10LevelDamage.PNG" style="padding-right:10px;">](https://github.com/biglol10/loado-react) aka Loado-App, User-friendly LostArk website providing different kinds of functionalities
+  - Over 200 likes and 36K views [promotion site](https://www.inven.co.kr/board/lostark/4811/4124077)
 
 <br/>
 
