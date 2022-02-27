@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-### Projects (Details in notion)
+### Projects (Details in [notion])
 
 - [<img align="left" alt="source" width="20px" src="https://www.svgrepo.com/show/157475/website.svg" style="padding-right:10px;"/>](https://blog.naver.com/nba2005kings) OCR Program using Tensorflow CNN ⚡
 
