@@ -47,9 +47,9 @@
 
 1. 💪 Add more functionalities in Loado-App
 
-2. <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /> Enable Sass in Loado-App instead of standard CSS
+2. <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> Enable Sass in Loado-App instead of standard CSS
 
-3. <img align="left" alt="loado" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" style="padding-right:10px;"> Renew Loado-App with Typescript
+3. <img align="left" alt="loado" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png"> Renew Loado-App with Typescript
 
 4. 📕 Learn Redux and enable Redux-toolkit and Saga in Loado-App
 
