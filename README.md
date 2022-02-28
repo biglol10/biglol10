@@ -54,7 +54,9 @@
 
 4. 📕 Learn Redux and enable Redux-toolkit and Saga in Loado-App
 
-5. 🎉 Keep on studying and be an excellent front-end engineer who is also capable of back-end with node/java
+5. <img align="left" alt="Node.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Change C# selenium to Node selenium
+
+6. 🎉 Keep on studying and be an excellent front-end engineer who is also capable of back-end with node/java
 <!--END_SECTION:activity-->
 
 <br/>
