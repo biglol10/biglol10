@@ -27,15 +27,19 @@
 
 ### Projects (Details in [notion])
 
-- [<img align="left" alt="source" width="20px" src="https://www.svgrepo.com/show/157475/website.svg" style="padding-right:10px;"/>](https://blog.naver.com/nba2005kings) OCR Program using Tensorflow CNN ⚡
+- [<img align="left" alt="Source" width="20px" src="https://www.svgrepo.com/show/157475/website.svg" style="padding-right:10px;"/>](https://blog.naver.com/nba2005kings) OCR Program using Tensorflow CNN ⚡
 
-- <img align="left" alt="factorymap" width="20px" src="https://image.shutterstock.com/image-illustration/factory-plant-isometric-3d-illustration-600w-1181914285.jpg" style="padding-right:10px"/> Factory Location display & Troublesome issue history management website
+- <img align="left" alt="Factorymap" width="20px" src="https://image.shutterstock.com/image-illustration/factory-plant-isometric-3d-illustration-600w-1181914285.jpg" style="padding-right:10px"/> Factory Location display & Troublesome issue history management website
 
 - [<img align="left" alt="GitHub" width="20px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/biglol10/CopyAndDistributeProg) File Copy and deploy program for MES project
 
-- <img align="left" alt="factory" width="20px" src="https://freesvg.org/img/isocity_factory.png" style="padding-right:10px;"/> MES system specified in developing production management and ERP interface
+- <img align="left" alt="Factory" width="20px" src="https://freesvg.org/img/isocity_factory.png" style="padding-right:10px;"/> MES system specified in developing production management and ERP interface
 
-- <img align="left" alt="monitoring" width="20px" src="https://icon-library.com/images/monitoring-icon/monitoring-icon-19.jpg" style="padding-right:10px;"> Established MES Monitoring for maintenance purpose to capture errors in ahead of customers and solve them ASAP
+- <img align="left" alt="Monitoring" width="20px" src="https://icon-library.com/images/monitoring-icon/monitoring-icon-19.jpg" style="padding-right:10px;"> Established MES Monitoring for maintenance purpose to capture errors in ahead of customers and solve them ASAP
+
+- <img align="left" alt="CrisisManagement" width="20px" src="https://cdn3.vectorstock.com/i/1000x1000/26/72/danger-warning-attention-sign-icon-vector-10502672.jpg" style="padding-right: 10px;"/> Crisis Management Application by Webview
+
+- <img align="left" alt="Shinhan" width="20px" src="https://image.shinhan.com/rib2017/images/any/img_mobile_logo.png?dt=1645883145193" style="padding-right: 10px"/> Shinhan Sol renewal project
 
 - [<img align="left" alt="loado" width="20px" src="https://loado-app.herokuapp.com/images/loa_icons/10LevelDamage.PNG" style="padding-right:10px;">](https://github.com/biglol10/loado-react) aka Loado-App, User-friendly LostArk website providing different kinds of functionalities
   - Over 200 likes and 36K views [promotion site](https://www.inven.co.kr/board/lostark/4811/4124077)
