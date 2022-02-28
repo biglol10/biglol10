@@ -42,7 +42,7 @@
 - <img align="left" alt="Shinhan" width="20px" src="https://image.shinhan.com/rib2017/images/any/img_mobile_logo.png?dt=1645883145193" style="padding-right: 10px"/> Shinhan Sol renewal project
 
 - [<img align="left" alt="loado" width="20px" src="https://loado-app.herokuapp.com/images/loa_icons/10LevelDamage.PNG" style="padding-right:10px;">](https://github.com/biglol10/loado-react) aka Loado-App, User-friendly LostArk website providing different kinds of functionalities
-  - Over 200 likes and 36K views [promotion site](https://www.inven.co.kr/board/lostark/4811/4124077)
+  - Over 200 likes and 36K views (visit the [promotion site](https://www.inven.co.kr/board/lostark/4811/4124077))
 
 <br/>
 
