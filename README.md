@@ -4,7 +4,7 @@
 
 ## I'm a junior front-end developer and the following is about my features
 
-- 👯 Entered Korea University located in Seoul (2010.03 ~ 2019.02)
+- 👯 Entered Korea University located in Seoul (2010.03 ~ 2018.08)
 - 🌱 Entered LG CNS (IT service company) and working as Software Engineer Associate
   - (2018.08 ~ 2021.09) Supported IT Service for LG Chem
   - (2021.09 ~ present) Moved to DCX Platform team as a front-end developer
