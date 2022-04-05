@@ -73,5 +73,5 @@
 
 <br/><br/><br/><br/>
 
-[notion]: https://www.notion.so/f2fe3dea61f64f21944002eb5950b4cd
+[notion]: https://tarry-feeling-379.notion.site/f2fe3dea61f64f21944002eb5950b4cd
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
