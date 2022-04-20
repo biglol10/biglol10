@@ -52,13 +52,13 @@
 
 1. 💪 Add more functionalities in Loado-App
 
-2. <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>Enable Sass in Loado-App instead of standard CSS
+2. <img align="left" alt="Sass" width="26px" padding-right="0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>Enable Sass in Loado-App instead of standard CSS
 
-3. <img align="left" alt="loado" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png">Renew Loado-App with Typescript
+3. <img align="left" alt="loado" width="20px" padding-right="0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png">Renew Loado-App with Typescript
 
 4. 📕 Learn Redux and enable Redux-toolkit and Saga in Loado-App
 
-5. <img align="left" alt="Node.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <del>Change C# selenium to Node selenium</del> => DONE. Renewed to Node selenium and deployed to Cafe24 Linux server using docker
+5. <img align="left" alt="Node.js" width="20px" padding-right="0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <del>Change C# selenium to Node selenium</del> => DONE. Renewed to Node selenium and deployed to Cafe24 Linux server using docker
 
 6. 🎉 Keep on studying and be an excellent front-end engineer who is also capable of back-end with node/java
 <!--END_SECTION:activity-->
